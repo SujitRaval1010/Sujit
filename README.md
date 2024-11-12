@@ -5,7 +5,7 @@
 
 - 🌱 **Skills:**  MS Excel , MYSQL , Python , Statistics , PowerBi , Machine Learning
  
-- 📝 **Projects:** <a href="https://github.com/SujitRaval1010/Sujit">Click here</a>
+- 📝 **Projects:** <a href="https://github.com/SujitRaval1010/Sujit/projects?query=is%3Aopen">Click here</a>
 
 - 📫 **Reach me:** sujitrwl@gmail.com
 
